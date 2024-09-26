@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "767122177776",
+    "firebase_url": "https://heatic-flutter-default-rtdb.firebaseio.com",
+    "project_id": "heatic-flutter",
+    "storage_bucket": "heatic-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767122177776:android:187f293e0dcebdc2e84c35",
+        "android_client_info": {
+          "package_name": "com.asm.heatic.heatic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767122177776-vmv5065tcjjuus054a8tlhrjrujgnnpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asm.heatic.heatic",
+            "certificate_hash": "2852eecdf463d196077b3acff7234d2dae80af15"
+          }
+        },
+        {
+          "client_id": "767122177776-54sj140ncoabb1m8jqurmoeb5dit2n2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdAmsYGuk7RGLKsQkTx80PnYEZqOOTPDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767122177776-54sj140ncoabb1m8jqurmoeb5dit2n2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
