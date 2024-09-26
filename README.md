@@ -61,8 +61,10 @@ To get started with Heatic, follow the steps below:
 
 ## Screenshots
 
-![Heatic Home Screen](https://your-link-to-image.com)
-![Heatic Dark Mode](https://your-link-to-image.com)
+![Heatic Home Screen](https://raw.githubusercontent.com/Sakshi-2508/Heatic-Debate-App/refs/heads/master/screenshot/1.png)
+![Heatic Explore Screen](https://raw.githubusercontent.com/Sakshi-2508/Heatic-Debate-App/refs/heads/master/screenshot/2.png)
+![Heatic Profile Screen](https://raw.githubusercontent.com/Sakshi-2508/Heatic-Debate-App/refs/heads/master/screenshot/3.png)
+![Heatic Profile Screen](https://raw.githubusercontent.com/Sakshi-2508/Heatic-Debate-App/refs/heads/master/screenshot/4.png)
 
 ## Contributing
 
